@@ -64,5 +64,5 @@ properties:
     vault: POSTGRES_SPRINGBOOTWEB_PASSWORD
   
 # common properties  
-  APPZ_TEARDOWN_TOKEN: 20210421-1700
+  APPZ_TEARDOWN_TOKEN: 20210421-1648
   revision : 05
